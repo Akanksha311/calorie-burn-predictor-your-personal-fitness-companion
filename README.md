@@ -16,6 +16,8 @@ Abhishek Tiwari
 1. Clone the repository to your local machine.
 2. Run the Streamlit application to input your activity details and receive personalized calorie burn predictions.
 3. Customize and optimize your workout routine based on the provided predictions.
-
+## Project link
+<a>https://caloriesprediction.streamlit.app/#calories-burned-prediction-app
+</a>
 ## Contact:
 For any inquiries or assistance, please contact the project team members or supervisor mentioned above.
